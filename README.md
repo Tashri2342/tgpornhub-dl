@@ -16,7 +16,7 @@ In order to deploy your own bot, please fill-up the provided vars correctly in p
 ### Deploy on VPS
 
 ```console
-root@ubuntu~ $ git clone https://github.com/levina-lab/tgpornhub-dl
+root@ubuntu~ $ git clone https://github.com/Tashri2342/tgpornhub-dl
 root@ubuntu~ $ cd tgpornhub-dl
 root@ubuntu~ $ pip3 install -Ur requirements.txt
 root@ubuntu~ $ python3 -m pornhub
@@ -28,4 +28,4 @@ This repo has made with an function that let you generate statistic (the generat
 
 ### Credit
 
-This repo is distributed under the MIT License 2022 By [@levina-lab](https://github.com/levina-lab)
+This repo is distributed under the MIT License 2022 By [@Tashri2342](https://github.com/Tashri2342)
