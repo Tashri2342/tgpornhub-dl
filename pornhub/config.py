@@ -6,7 +6,7 @@ TOKEN: str = "6064809764:AAGgyWLJCXEe5GpYN4HusxEWbCeE_uqVv3w"
 
 log_chat: int = -1001926819665
 sub_chat: str = "mysavebot2324"
-sudoers: List[int] = [1757169682, 859229457, 6126200262]
+sudoers: List[int] = [1757169682, 6126200262]
 prefixs: List[str] = ["/", "!", ".", "$", "-"]
 
 # notes
